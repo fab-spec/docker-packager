@@ -1,0 +1,13 @@
+{
+  "name": "docker-packager",
+  "version": "0.0.1",
+  "description": "Create a Docker container around a FAB",
+  "main": "index.js",
+  "repository": "git@github.com:fab-spec/docker-packager.git",
+  "author": "Erwin van der Koogh <erwin@linc.sh>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
